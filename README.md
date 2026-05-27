@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Krish Choudhary</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Data Engineer | Builder</h3>
 
 ---
