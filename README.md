@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Choudhary</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Data Engineer | Builder</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Data Engineer | Solution Builder</h3>
 
 ---
 
@@ -52,6 +52,7 @@
 👨‍💻 **AI/ML Intern @ ShadowFox**
 🎤 **Campus Ambassador @ IIT Bombay E-Cell**
 📊 **Deloitte Virtual Internship**
+🎓 **Google Gemini Student Ambassador Participant**
 
 ---
 
