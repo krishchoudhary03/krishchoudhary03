@@ -66,8 +66,11 @@
 ## 🏆 Achievements
 
 🏅 Microsoft Azure AI Fundamentals Certified
+
 🏅 AWS Cloud Foundations Certified
+
 🏅 Infosys Springboard Internship Qualified
+
 🏅 Google Student Program Ambassador
 
 ---
