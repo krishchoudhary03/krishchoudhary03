@@ -39,10 +39,14 @@
 
 ## 🛠️ Tech Stack
 
-💻 **Languages:** Python | SQL | Java | C
-🤖 **AI/ML:** TensorFlow | Scikit-Learn | OpenCV
-🌐 **Web:** HTML | CSS | JavaScript | Flask | Django
-🗄️ **Database:** MySQL | MongoDB | Supabase
+💻 **Languages:** Python | SQL | Java | C 
+
+🤖 **AI/ML:** TensorFlow | Scikit-Learn | OpenCV 
+
+🌐 **Web:** HTML | CSS | JavaScript | Flask | Django 
+
+🗄️ **Database:** MySQL | MongoDB | Supabase 
+
 ⚙️ **Tools:** Git | Docker | AWS | Azure | Power BI | Postman | Arduino
 
 ---
@@ -50,8 +54,11 @@
 ## 📊 Experience
 
 👨‍💻 **AI/ML Intern @ ShadowFox**
+
 🎤 **Campus Ambassador @ IIT Bombay E-Cell**
+
 📊 **Deloitte Virtual Internship**
+
 🎓 **Google Gemini Student Ambassador Participant**
 
 ---
